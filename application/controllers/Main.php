@@ -20,8 +20,8 @@ class Main extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('template/header');
+		$this->load->view('templates/header');
 		$this->load->view('welcome_message');
-		$this->load->view('template/footer');
+		$this->load->view('templates/footer');
 	}
 }
