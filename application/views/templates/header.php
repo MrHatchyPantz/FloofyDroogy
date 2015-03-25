@@ -14,4 +14,4 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </head>
 <body>
 
-<div id="container">
+<div class="container">
